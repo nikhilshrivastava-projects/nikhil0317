@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhil0317
-- 👀 I’m interested in python, data science, blockchain technologies
-- 🌱 I’m currently learning blockchain python, data science, blockchain technologies
+- 👀 My interest areas: python, data science, blockchain technologies
+- 🌱 Hobbies: Photography
 - 💞️ I’m looking to collaborate on python, data science, blockchain technologies
 - 📫 How to reach me: nikhil.shrivastav03@gmail.com
 
